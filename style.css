@@ -1,0 +1,19 @@
+.container {
+  border: 1px, 2px solid whitesmoke;
+  display: flex;
+  height: 200px;
+  width: 450px;
+  justify-content: center;
+  align-items: center;
+  background-color: lightskyblue;
+  color: darkcyan;
+}
+.Bo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+}
